@@ -134,3 +134,5 @@ export PATH="$PATH:/Users/pradeep/.lmstudio/bin"
 # Suggested by uv
 export PATH="/Users/pradeep/.local/bin:$PATH"
 # End of uv section
+
+alias lg=lazygit
