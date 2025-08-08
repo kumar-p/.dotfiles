@@ -136,3 +136,8 @@ export PATH="/Users/pradeep/.local/bin:$PATH"
 # End of uv section
 
 alias lg=lazygit
+
+# eza - ls replacement
+export EZA_CONFIG_DIR="$HOME/.config/eza"
+alias l="eza -la --icons"
+# END of eza
